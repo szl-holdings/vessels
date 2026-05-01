@@ -8,7 +8,7 @@
 
   [Live Demo](https://szlholdings.com) · [Platform Demo Video](https://szlholdings.com/szl-demo-video/) · [Investor Dashboard](https://szlholdings.com/stephen/investor) · [Architecture](../../docs/architecture/architecture.md)
 
-  ![Vessels — Maritime Intelligence](https://raw.githubusercontent.com/szl-holdings/.github/main/assets/screenshots/vessels-maritime.jpg)
+  ![Vessels — Maritime Intelligence](https://raw.githubusercontent.com/szl-holdings/szl-holdings-platform/master/.github/assets/screenshots/vessels-hero.jpg)
 
   ---
   ## What it does

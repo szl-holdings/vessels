@@ -2,6 +2,9 @@
 
   > Maritime fleet intelligence for the SZL Holdings platform.
 
+  [![CI (platform monorepo)](https://github.com/szl-holdings/szl-holdings-platform/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/szl-holdings/szl-holdings-platform/actions/workflows/ci.yml)
+  [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](./LICENSE)
+
   Vessels provides fleet command, sanctions screening, dark-vessel detection, ownership graph analysis, and voyage analytics for maritime operations teams.
 
   ## Capabilities

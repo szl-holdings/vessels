@@ -52,13 +52,13 @@ The vessels surface inherits the same six machine-verified mechanisms as every o
 | # | Mechanism | Where it's proven |
 |---|---|---|
 | I | Λ-gate (9-axis Lutar Invariant) | [`lutar-lean/Lutar/Invariant.lean`](https://github.com/szl-holdings/lutar-lean/blob/main/Lutar/Invariant.lean) |
-| II | Receipt chain (signed bounded recursion) | [`szl-holdings/ouroboros`](https://github.com/szl-holdings/ouroboros) v6.2 substrate |
-| III | Bekenstein gate (information-bounded admit) | Paper v11 §3.3 |
-| IV | Dual-witness verdict (MATCH/DIVERGE) | Paper v11 §3.4 |
-| V | Witness diversity (Gauss class-number gating) | Paper v12 §4 (in review) |
+| II | Receipt chain (signed bounded recursion) | [`szl-holdings/ouroboros`](https://github.com/szl-holdings/ouroboros) v6.3.0 substrate |
+| III | Bekenstein gate (information-bounded admit) | Paper v13 §3.3 |
+| IV | Dual-witness verdict (MATCH/DIVERGE) | Paper v13 §3.4 |
+| V | Witness diversity (Gauss class-number gating) | Paper v13 §4 |
 | VI | Reference-vector parity (bit-exact across runtimes) | [`RefVectors.lean`](https://github.com/szl-holdings/lutar-lean/blob/main/RefVectors.lean) |
 
-Verified test counts: ouroboros runtime **218/218**; full platform monorepo **1,220 tests across 76 packages** (incl. MCP gateway 27/27 e2e). Paper line v1–v11 published on Zenodo (concept DOI [10.5281/zenodo.19944926](https://doi.org/10.5281/zenodo.19944926)); v12 & v13 published (DOIs: [10.5281/zenodo.20173920](https://doi.org/10.5281/zenodo.20173920), [10.5281/zenodo.20195368](https://doi.org/10.5281/zenodo.20195368)).
+Verified test counts: ouroboros runtime **218/218**; full platform monorepo **1,220 tests across 76 packages** (incl. MCP gateway 27/27 e2e). Paper line v1–v13 published on Zenodo on 2026-05-14 (v13 DOI [10.5281/zenodo.20173912](https://doi.org/10.5281/zenodo.20173912); v12 DOI [10.5281/zenodo.20173920](https://doi.org/10.5281/zenodo.20173920); concept DOI [10.5281/zenodo.19944926](https://doi.org/10.5281/zenodo.19944926)).
 
 ## Citation
 

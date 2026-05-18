@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the SZL Holdings research thesis (Ouroboros Thesis v10) and reference this component."
+message: "If you use this software, please cite the SZL Holdings research thesis (Ouroboros Thesis v13) and reference this component."
 title: "vessels — Maritime fleet intelligence. Sanctions screening, dark-vessel detection, ownership graph analysis, and voyage analytics."
 abstract: >-
   Maritime fleet intelligence. Sanctions screening, dark-vessel detection, ownership graph analysis, and voyage analytics. Component of the SZL Holdings governed AI decision infrastructure,
@@ -22,9 +22,9 @@ keywords:
   - decision-intelligence
   - ouroboros-thesis
 identifiers:
-  - description: "Ouroboros Thesis v10 — research foundation (Zenodo)"
+  - description: "Ouroboros Thesis v13 — research foundation (Zenodo)"
     type: doi
-    value: "10.5281/zenodo.20053163"
+    value: "10.5281/zenodo.20173912"
   - description: "Ouroboros Thesis concept DOI — always-latest"
     type: doi
     value: "10.5281/zenodo.19944926"
